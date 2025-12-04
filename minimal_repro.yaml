@@ -1,0 +1,4 @@
+converter:
+  class_path: minimal_repro.MyConverter
+  init_args:
+    name: "test"
