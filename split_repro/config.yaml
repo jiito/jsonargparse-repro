@@ -1,0 +1,5 @@
+converter:
+  class_path: defs.MyConverter
+  init_args:
+    name: "test"
+
